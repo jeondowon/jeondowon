@@ -13,7 +13,7 @@ and I believe good communication matters as much as good code.
 ### Featured
 
 - **Candle**: A daily stock prediction challenge. Call it up or down with real market data, build your streak, get rewarded.
-- **SpotLine**: CCTV analytics dashboard powered by Vision AI + Gemini. *Google AI Agent Challenge finalist (2026).*
+- **SpotLine**: CCTV analytics dashboard powered by Vision AI + Gemini. _Google AI Agent Challenge finalist (2026)._
 - **Rockie**: A desktop pet for macOS. A little rock that learns your personality and evolves into a gem. [Download →](https://jeondowon.com/rockie)
 
 ### Stack
@@ -33,7 +33,6 @@ and I believe good communication matters as much as good code.
 
 **Backend / AI**&nbsp;
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
-![Gemini API](https://img.shields.io/badge/Gemini_API-8E75B2?style=flat&logo=googlegemini&logoColor=white)
 ![Vision AI](https://img.shields.io/badge/Vision_AI-4285F4?style=flat&logo=googlecloud&logoColor=white)
 
 **Tools**&nbsp;
